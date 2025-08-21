@@ -1,0 +1,25 @@
+Development Team:
+
+Alexei Petrov - Software Developer/Engineer
+Elena Markova - DevOps Engineer
+Roman Kuznetsov - Quality Assurance (QA) Engineer
+Sergei Ivanov - Software Developer/Engineer
+Natalia Smirnova - QA Engineer
+Project Management and Coordination:
+
+Olga Nikolaeva - Project Manager
+Dmitrii Mikhailov - Technical Project Coordinator
+Client-Facing Roles:
+
+Viktoriya Denisova - Sales Engineer
+Andrei Sokolov - Account Manager
+Ekaterina Lebedeva - Technical Support Specialist
+Operations and Administration:
+
+Irina Fedorova - Operations Manager
+Anastasia Kuzmina - Administrative Assistant
+Other Roles:
+
+Leonid Gorbunov - UX/UI Designer
+Tatiana Morozova - Technical Writer
+Pavel Ryzhkov - IT Support Specialist
